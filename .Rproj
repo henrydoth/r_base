@@ -1,0 +1,7 @@
+name: r-base
+version: 0.1.0
+author: Your Name
+description: A brief description of the r-base project.
+license: MIT
+dependencies:
+  - R (>= 3.5.0)

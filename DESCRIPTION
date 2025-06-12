@@ -1,0 +1,14 @@
+Package: r-base
+Type: Package
+Title: A Base R Project
+Version: 0.1.0
+Author: Your Name
+Maintainer: Your Name <your.email@example.com>
+Description: This package serves as a base for R projects, providing essential functionalities for data analysis and processing.
+License: MIT
+Imports:
+    dplyr,
+    ggplot2
+Suggests:
+    knitr,
+    rmarkdown
